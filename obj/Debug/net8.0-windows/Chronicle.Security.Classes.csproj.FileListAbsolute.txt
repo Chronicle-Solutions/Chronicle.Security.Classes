@@ -1,0 +1,15 @@
+C:\Users\adasn\source\repos\Chronicle\Chronicle.Security.Classes\obj\Debug\net8.0-windows\Chronicle.Security.Classes.csproj.AssemblyReference.cache
+C:\Users\adasn\source\repos\Chronicle\Chronicle.Security.Classes\obj\Debug\net8.0-windows\Chronicle.Security.Classes.csproj.GenerateResource.cache
+C:\Users\adasn\source\repos\Chronicle\Chronicle.Security.Classes\obj\Debug\net8.0-windows\Chronicle.Security.Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adasn\source\repos\Chronicle\Chronicle.Security.Classes\obj\Debug\net8.0-windows\Chronicle.Security.Classes.AssemblyInfoInputs.cache
+C:\Users\adasn\source\repos\Chronicle\Chronicle.Security.Classes\obj\Debug\net8.0-windows\Chronicle.Security.Classes.AssemblyInfo.cs
+C:\Users\adasn\source\repos\Chronicle\Chronicle.Security.Classes\obj\Debug\net8.0-windows\Chronicle.Security.Classes.csproj.CoreCompileInputs.cache
+C:\Users\adasn\source\repos\Chronicle\Chronicle.Security.Classes\obj\Debug\net8.0-windows\Chronicle.Security.Classes.sourcelink.json
+C:\Users\adasn\source\repos\Chronicle\Chronicle.Security.Classes\bin\Debug\net8.0-windows\Chronicle.Security.Classes.deps.json
+C:\Users\adasn\source\repos\Chronicle\Chronicle.Security.Classes\bin\Debug\net8.0-windows\Chronicle.Security.Classes.dll
+C:\Users\adasn\source\repos\Chronicle\Chronicle.Security.Classes\bin\Debug\net8.0-windows\Chronicle.Security.Classes.pdb
+C:\Users\adasn\source\repos\Chronicle\Chronicle.Security.Classes\obj\Debug\net8.0-windows\Chronicle.Security.Classes.dll
+C:\Users\adasn\source\repos\Chronicle\Chronicle.Security.Classes\obj\Debug\net8.0-windows\refint\Chronicle.Security.Classes.dll
+C:\Users\adasn\source\repos\Chronicle\Chronicle.Security.Classes\obj\Debug\net8.0-windows\Chronicle.Security.Classes.pdb
+C:\Users\adasn\source\repos\Chronicle\Chronicle.Security.Classes\obj\Debug\net8.0-windows\ref\Chronicle.Security.Classes.dll
+C:\Users\adasn\Source\Repos\Chronicle\Chronicle.Security.Classes\obj\Debug\net8.0-windows\Chronicle.Security.Classes.Classes.resources

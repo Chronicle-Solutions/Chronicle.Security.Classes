@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	<UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\Chronicle\Chronicle.csproj">
+			<Private>false</Private>
+			<ExcludeAssets>runtime</ExcludeAssets>
+		</ProjectReference>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Compile Update="Classes.cs">
+	    <SubType>Form</SubType>
+	  </Compile>
+	</ItemGroup>
+
+	<PropertyGroup>
+		<PostBuildEvent>"$(SolutionDir)build.py"</PostBuildEvent>
+	</PropertyGroup>
+
+</Project>
