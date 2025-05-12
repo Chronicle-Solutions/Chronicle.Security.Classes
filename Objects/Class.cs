@@ -21,7 +21,7 @@ namespace Chronicle.Security.Classes.Objects
         [Category("Audit")]
         [DisplayName("Created By")]
         [ReadOnly(true)]
-        public string CreatedBy { get; set; }
+        public string? CreatedBy { get; set; }
 
         [Category("Audit")]
         [DisplayName("Created Date")]
@@ -31,7 +31,7 @@ namespace Chronicle.Security.Classes.Objects
         [Category("Audit")]
         [DisplayName("Updated By")]
         [ReadOnly(true)]
-        public string UpdatedBy { get; set; }
+        public string? UpdatedBy { get; set; }
 
         [Category("Audit")]
         [DisplayName("Updated Date")]
